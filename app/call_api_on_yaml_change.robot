@@ -2,8 +2,8 @@
 Library    RequestsLibrary
 
 *** Variables ***
-${BASE_URL}    https://wileyas.qa2.viax.io/price-proposals
-${RESOURCE}    https://api.wileyas.qa2.viax.io/graphql
+${BASE_URL}    https://api.wileyas.qa2.viax.io/graphql
+${RESOURCE}   https://wileyas.qa2.viax.io/price-proposals
 
 *** Test Cases ***
 Test JSON Placeholder API
