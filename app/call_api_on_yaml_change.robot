@@ -2,8 +2,8 @@
 Library    RequestsLibrary
 
 *** Variables ***
-${BASE_URL}    https://jsonplaceholder.typicode.com
-${RESOURCE}    /todos/1
+${BASE_URL}    https://wileyas.qa2.viax.io/price-proposals
+${RESOURCE}    https://api.wileyas.qa2.viax.io/graphql
 
 *** Test Cases ***
 Test JSON Placeholder API
