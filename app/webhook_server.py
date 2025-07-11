@@ -6,7 +6,7 @@ import os
 
 app = Flask(__name__)
 
-@app.route('/', methods=['GET'])
+@app.route('/', methods=['POST'])
 def home():
     return "Webhook server is running", 200
 
