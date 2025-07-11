@@ -1,4 +1,5 @@
 flask
+requests
 robotframework
 robotframework-requests
-gunicorn
+
