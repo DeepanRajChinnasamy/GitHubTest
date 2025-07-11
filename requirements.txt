@@ -1,0 +1,4 @@
+flask
+robotframework
+robotframework-requests
+gunicorn
